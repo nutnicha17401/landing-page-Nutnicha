@@ -84,7 +84,7 @@ body {
 }
 
 .container .description {
-	color: #a8abb7;
+	color: #ffffff;
 	width: 85%;
 	font-size: 18px;
 	margin: 30px 0;
@@ -94,7 +94,7 @@ body {
 	background-color: #db1b2b;
 	color: #ffffff;
 	padding: 15px;
-	font-size: 18px;
+	font-size: 24px;
 	font-weight: bolder;
 	cursor: pointer;
 	border: none;
@@ -109,16 +109,17 @@ body {
 .gradient-background {
 	background: linear-gradient(
 		90deg,
-		rgba(0, 0, 0, 1) 0%,
-		rgba(8, 12, 14, 1) 10%,
-		rgba(14, 22, 25, 1) 20%,
-		rgba(24, 36, 42, 1) 30%,
-		rgba(34, 49, 60, 1) 50%,
-		rgba(21, 32, 38, 1) 70%,
-		rgba(14, 22, 25, 1) 80%,
-		rgba(8, 12, 14, 1) 90%,
-		rgba(0, 0, 0, 1) 100%
-	);
+			rgb(228, 31, 31) 0%,
+			rgb(247, 63, 7) 10%,
+			rgb(240, 82, 9) 20%,
+			rgb(233, 81, 10) 30%,
+			rgb(231, 143, 10) 50%,
+			rgb(199, 77, 40) 70%,
+			rgb(247, 116, 10) 80%,
+			rgb(241, 139, 6) 90%,
+			rgb(255, 115, 0) 100%
+		);
+	;
 	position: absolute;
 	z-index: -1;
 	width: 100vw;
