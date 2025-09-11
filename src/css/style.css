@@ -107,18 +107,7 @@ body {
 }
 
 .gradient-background {
-	background: linear-gradient(
-		90deg,
-			rgb(228, 31, 31) 0%,
-			rgb(247, 63, 7) 10%,
-			rgb(240, 82, 9) 20%,
-			rgb(233, 81, 10) 30%,
-			rgb(231, 143, 10) 50%,
-			rgb(199, 77, 40) 70%,
-			rgb(247, 116, 10) 80%,
-			rgb(241, 139, 6) 90%,
-			rgb(255, 115, 0) 100%
-		);
+	background-color: #ff9900
 	;
 	position: absolute;
 	z-index: -1;
