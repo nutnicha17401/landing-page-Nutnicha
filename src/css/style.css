@@ -48,7 +48,7 @@ body {
 }
 
 .header .logo {
-	width: 65px;
+	width: 70px;
 }
 
 .header .menu {
@@ -80,7 +80,7 @@ body {
 }
 
 .container .image-title {
-	max-width: 500px;
+	max-width: 350px;
 }
 
 .container .description {
